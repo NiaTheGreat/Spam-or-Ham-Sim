@@ -19,23 +19,14 @@ Install the required Python modules.
 pip3 install -r requirements.txt
 ```
 
-If requirements.txt doesn't exist.
-
-```
-pip3 freeze > requirements.txt
-
 Install jupyter
+
 ```
-
 pip install jupyter
-
 ```
 
 Start the jupyter notebook
-```
 
+```
 jupyter notebook
-
-```
-
 ```
